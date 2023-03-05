@@ -1,0 +1,29 @@
+.button_ac{
+    width: 160px;
+    height: 60px;
+}
+.buttons{
+    height: 60px;
+    width: 80px;
+}
+.buttoneq{
+    height: 120px;
+    width: 80px;
+}
+.buttonsze{
+    height: 60px;
+    width: 160px;
+}
+.equ{
+    display: flex;
+}
+button{
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color:pink;
+    border: 1px solid;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+button:hover{
+    opacity: .8;
+}
